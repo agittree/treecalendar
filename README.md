@@ -1,2 +1,2 @@
 # treecalendar
-A Chinese Style Calendar
+A Chinese Calendar
